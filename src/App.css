@@ -63,10 +63,12 @@ body {
 
 .student-card h2 {
   margin-top: 0;
+  color: #222;
 }
 
 .student-card p {
   color: #555;
+
 }
 
 .student-card button {
